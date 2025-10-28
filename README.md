@@ -55,12 +55,3 @@ Project Title: API Testing Project – Automation Exercise
 
 -Get user detail by email – GET /api/getUserDetailByEmail
 
-*Why This Project is Valuable:
-
--Demonstrates ability to engage in API testing (not only UI testing).
-
--Shows knowledge of HTTP methods, status codes, request parameters, and response validation.
-
--Provides repository-ready material to showcase in CV or portfolio for test-automation roles.
-
--Flexible foundation: additional endpoints or complex scenarios can be added later.
