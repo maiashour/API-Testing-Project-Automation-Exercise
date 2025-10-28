@@ -1,6 +1,7 @@
 Project Summary
 
 Project Title: API Testing Project – Automation Exercise
+
 *Description:
 -This project uses the publicly-available APIs from Automation Exercise for practicing API testing. The collection includes requests such as getting product lists, searching products, user registration/login, and user account operations.
 
